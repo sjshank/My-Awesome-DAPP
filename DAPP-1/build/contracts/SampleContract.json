@@ -1,0 +1,112 @@
+{
+  "contractName": "SampleContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/sshankariya/Desktop/DAPP-Examples/DAPP-1/contracts/SampleContract.sol\":\"SampleContract\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/sshankariya/Desktop/DAPP-Examples/DAPP-1/contracts/SampleContract.sol\":{\"keccak256\":\"0x437cdf43e3c994f5d5acefb7df66909b652176f133f4158262fca25731f32047\",\"urls\":[\"bzz-raw://f6e2e91cd0aa3f2956ab2a042a6d44f84f00917988c3a4364679e635451c8083\",\"dweb:/ipfs/QmTSZF35KPVaNZrkxPzF3egfKHSQev6kJW5MKV8s14fpau\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a723158206c150953a13c55f070fcba4e060e44ebd9979fbd2fc6209181dd27a66358195c64736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a723158206c150953a13c55f070fcba4e060e44ebd9979fbd2fc6209181dd27a66358195c64736f6c63430005100032",
+  "sourceMap": "27:25:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:25:1;;;;;;;",
+  "deployedSourceMap": "27:25:1:-;;;;;",
+  "source": "pragma solidity ^0.5.1;\r\n\r\ncontract SampleContract{}",
+  "sourcePath": "C:\\Users\\sshankariya\\Desktop\\DAPP-Examples\\DAPP-1\\contracts\\SampleContract.sol",
+  "ast": {
+    "absolutePath": "/C/Users/sshankariya/Desktop/DAPP-Examples/DAPP-1/contracts/SampleContract.sol",
+    "exportedSymbols": {
+      "SampleContract": [
+        39
+      ]
+    },
+    "id": 40,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 38,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 39,
+        "linearizedBaseContracts": [
+          39
+        ],
+        "name": "SampleContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 40,
+        "src": "27:25:1"
+      }
+    ],
+    "src": "0:52:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/sshankariya/Desktop/DAPP-Examples/DAPP-1/contracts/SampleContract.sol",
+    "exportedSymbols": {
+      "SampleContract": [
+        39
+      ]
+    },
+    "id": 40,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 38,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 39,
+        "linearizedBaseContracts": [
+          39
+        ],
+        "name": "SampleContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 40,
+        "src": "27:25:1"
+      }
+    ],
+    "src": "0:52:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xcC28c5441d27E54387AB2a6248b483ac75547d95",
+      "transactionHash": "0xf3d427012a9608ec3afe59ad7bf9d616cea1cee261c4968c903a718151638b06"
+    }
+  },
+  "schemaVersion": "3.0.23",
+  "updatedAt": "2020-04-09T05:17:52.072Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
